@@ -10,4 +10,3 @@ Scenario_Precinct_Push_Insurgents
 Scenario_Precinct_Push_Security
 Scenario_Summit_Push_Insurgents
 Scenario_Summit_Push_Security
-
